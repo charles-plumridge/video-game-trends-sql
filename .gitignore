@@ -10,6 +10,7 @@ data/
 
 # Generated images / outputs
 *.png
+!media/schema.png
 *.gif
 
 # --- END PROJECT-SPECIFIC ADDITIONS ---
