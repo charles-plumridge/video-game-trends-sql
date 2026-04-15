@@ -1,5 +1,0 @@
-ipykernel
-jupyter
-kaggle
-ipython-sql
-prettytable<3
