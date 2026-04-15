@@ -1,5 +1,7 @@
 # Game Trends SQL Analysis
 
+**View the analysis:** [notebooks/analysis.ipynb](notebooks/analysis.ipynb)
+
 ## Overview
 This project analyses video game sales and review data to understand how critic and user scores relate to commercial performance.
 
